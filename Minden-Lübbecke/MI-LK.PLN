@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Melle-Gr&#xC3;&#xB6;negau to Heeresflugplatz B&#xC3;&#xBC;ckeburg</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6700.000</CruisingAlt>
+        <DepartureID>EDXG</DepartureID>
+        <DepartureLLA>N52° 12' 3.36",E8° 22' 50.65",+000236.00</DepartureLLA>
+        <DestinationID>ETHB</DestinationID>
+        <DestinationLLA>N52° 16' 39.74",E9° 4' 50.02",+000219.00</DestinationLLA>
+        <Descr>Melle-Gr&#xC3;&#xB6;negau to Heeresflugplatz B&#xC3;&#xBC;ckeburg</Descr>
+        <DepartureName>Melle-Gr&#xC3;&#xB6;negau</DepartureName>
+        <DestinationName>Heeresflugplatz B&#xC3;&#xBC;ckeburg</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDXG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 12' 3.36",E8° 22' 50.65",+000236.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDXG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 17' 7.47",E8° 31' 57.12",+001750.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 27' 3.59",E8° 26' 38.97",+003850.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 16' 9.90",E8° 35' 42.93",+006300.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 17' 44.09",E8° 37' 7.44",+006650.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 17' 54.04",E8° 37' 26.37",+005700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 19' 37.27",E8° 40' 43.57",+005700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 17' 8.00",E8° 43' 46.12",+005700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 16' 45.60",E8° 45' 41.46",+005700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 15' 48.89",E8° 50' 32.32",+005700.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 14' 42.49",E8° 54' 20.01",+005550.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 17' 20.32",E8° 54' 57.34",+005000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 18' 12.41",E8° 55' 53.70",+004800.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Benutzerdefiniert">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 17' 55.23",E8° 41' 34.32",+003050.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ETHB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 16' 39.74",E9° 4' 50.02",+000200.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ETHB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
